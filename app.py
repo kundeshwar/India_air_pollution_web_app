@@ -13,7 +13,7 @@ with st.sidebar:
     st.title('''      🍏 🍏 AIR POLLUTION        ''')
     st.markdown("------------------")
 #st.title("Speciates India")
-option_i = "🪔 Speciates India 🪔"
+option_i = " Speciates India "
 st.markdown(f"<h1 style='text-align: center;'>{option_i}</h1>",unsafe_allow_html=True) 
 #----------------------------------------dictonary making 
 # Dictionary to store the dataframes
